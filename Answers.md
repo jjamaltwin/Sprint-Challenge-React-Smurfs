@@ -1,5 +1,3 @@
-1.  Explain the differences between `client-side routing` and `server-side routing`.
-1.  What does HTTP stand for?
-1.  What does CRUD stand for?
-1.  Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
-1.  Mention three tools we can use to make AJAX requests
+Server-Side-Routing: Server compiles the document or html file in order for the browser to read and render new page. Ideal for search engine optimiztion. Client-Side-Routing: Data is managed within it's own memory database. A basic json is returned, instead of an entire page/template. Also in addition, the browser doesn't refresh because it is no longer compiling data to render, but relying on databse/stored data. 
+C.R.U.D.  Create/post Request/get Update/put Delete/delete
+Fetch, Axios, and Jquery 
